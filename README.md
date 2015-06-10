@@ -2,7 +2,7 @@ V1.0.0 Release Notes: The main thing you must remember is that if you want to ha
 <h1>Methods</h1>
 <em>All values are default values that you can change.</em>
 <h3>.slideInLeft</h3>
-<b>Description: Slide in from the left side.</b>
+<b>Description: Slide in from the left side.</b><br />
 Usage: <code>$('tag').slideInLeft({speed:400, distance: '100px', startOpacity: 0, opacitySpeed: 400});</code>
 Run down of the settings:
 <code>speed</code>: How fast the animation animates.
