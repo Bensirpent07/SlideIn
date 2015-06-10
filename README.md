@@ -2,13 +2,13 @@ V1.0.0 Release Notes: The main thing you must remember is that if you want to ha
 <h1>Methods</h1>
 <em>All values are default values that you can change.</em>
 <h3>.slideInLeft</h3>
-<b>Description: Slide in from the left side.</b><br />
-Usage: <code>$('tag').slideInLeft({speed:400, distance: '100px', startOpacity: 0, opacitySpeed: 400});</code>
-Run down of the settings:
-<code>speed</code>: How fast the animation animates.
-<code>distance</code>: How far away the animation begins.
-<code>startOpacity</code>: How opaque the tag starts when the animation starts.
-<code>opacitySpeed</code>: How fast the opacity changes during the animation.
+<b>Description: Slide in from the left side.</b><br>
+Usage: <code>$('tag').slideInLeft({speed:400, distance: '100px', startOpacity: 0, opacitySpeed: 400});</code><br>
+Run down of the settings:<br>
+<code>speed</code>: How fast the animation animates.<br>
+<code>distance</code>: How far away the animation begins.<br>
+<code>startOpacity</code>: How opaque the tag starts when the animation starts.<br>
+<code>opacitySpeed</code>: How fast the opacity changes during the animation.<br>
 
 <h3>.slideInRight</h3>
 <b>Description: Slide in from the right side.</b><br>
