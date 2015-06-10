@@ -44,7 +44,7 @@ Run down of the settings:<br>
 <h3>.slideInDiagonal</h3>
 <b>Description: Slide in from any corner.</b><br>
 Usage: <code>$('tag').slideInDiagonal({speed: 400, distance: '100px', startOpacity: 0, opacitySpeed: 400, left: true, right: null comeDown: null, comeUp: null});</code><br>
-<font style="color: red">Note:</font> You must choose either <code>comeDown</code> or <code>comeUp</code> for the animation to run. You can look at the example page to see an example of a diagonal animation.<br>
+<font color="red">Note:</font> You must choose either <code>comeDown</code> or <code>comeUp</code> for the animation to run. You can look at the example page to see an example of a diagonal animation.<br>
 Run down of the settings:<br>
 <code>speed</code>: How fast the animation animates.<br>
 <code>distance</code>: How far away the animation begins.<br>
