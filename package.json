@@ -1,0 +1,19 @@
+{
+  "name":        "SlideIn",
+  "version":     "1.0.0",
+  "description": "Smooth transition into view after a certain trigger.",
+  "homepage":    "http://scrollrevealjs.org",
+  "main":        "SlideInPlugin/slideIn.js",
+
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/julianlloyd/scrollReveal.js.git"
+  },
+
+  "author":  "Ben Kuhman",
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/julianlloyd/scrollReveal.js/issues"
+  },
+}
